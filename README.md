@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decentralized Patient Management System (DPMS)
 
 A fully working decentralized web application with frontend, backend, and blockchain integration for secure, immutable medical records.
@@ -66,3 +67,6 @@ To containerize the application for production, you would:
 1. Wrap the **Node.js Server** and **React App (Nginx Build)** in separate `Dockerfile`s.
 2. Create a `docker-compose.yml` that links an isolated `mongo:latest` instance to the Node Backend.
 3. Provision the Smart Contract strictly to an Ethereum Testnet (Sepolia/Goerli) via Infura or Alchemy RPC URLs configured in environment variables, removing the need to dockerize a full blockchain node.
+=======
+# Decentralized-patient-management-system
+>>>>>>> 98075b5f552c160cc3641dfc353b8b2bd6a6df2e
