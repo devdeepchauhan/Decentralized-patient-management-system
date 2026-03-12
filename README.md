@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Decentralized Patient Management System (DPMS)
 
 A fully working decentralized web application with frontend, backend, and blockchain integration for secure, immutable medical records.
